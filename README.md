@@ -1,4 +1,3 @@
 # Visual-Odometry
 
-![Predicted Sequence]
-(Visual\ Odometry\ Output.jpg)
+![Visual Odometry](https://github.com/bghadge/Visual-Odometry/blob/master/Visual%20Odometry%20Output.jpg)
